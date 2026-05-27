@@ -9,3 +9,8 @@ A simple text-based Hangman game built using Python.
 
 ## Technologies Used
 - Python
+
+## To Run Use This Command 
+- python hangman.py
+or
+- python3 hangman.py
